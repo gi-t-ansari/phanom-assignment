@@ -1,6 +1,7 @@
 import React from "react";
 import {
   ClientsCarousel,
+  ExploreSection,
   HeroSection,
   Navbar,
   Sidebar,
@@ -12,6 +13,7 @@ const LandingPage = () => {
       <Navbar />
       <HeroSection />
       <ClientsCarousel />
+      <ExploreSection />
     </main>
   );
 };
