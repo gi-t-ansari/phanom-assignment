@@ -23,7 +23,7 @@ const ExploreSection = () => {
             unique needs. With a focus on quality and innovation, we turn your
             vision into reality.
           </p>
-          <button className="bg-[#6C5FD4] text-white rounded-full px-5 py-2 cursor-pointer">
+          <button className="bg-[#6C5FD4] text-white rounded-full px-5 py-2 cursor-pointer font-serif">
             Book an Appointment
           </button>
         </article>
